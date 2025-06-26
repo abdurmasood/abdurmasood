@@ -1,13 +1,13 @@
-# 🚀 Abdur Rafey Masood
+# Abdur Rafey Masood
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+the+Future+with+AI;Crafting+Intelligent+Solutions;Code+%2B+AI+%3D+Magic&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+InsightOS;Building+Momentum;Building+the+Future&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000">
 </div>
 
 <div align="center">
   
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rafey.ai-FF6B6B?style=for-the-badge&labelColor=000000)](https://rafey.ai)
-  [![AI Research](https://img.shields.io/badge/🤖_AI_Research-Active-4ECDC4?style=for-the-badge&labelColor=000000)]()
+  [![AI Research](https://img.shields.io/badge/🤖_AI_Research-Inactive-808080?style=for-the-badge&labelColor=000000)]()
   [![Open Source](https://img.shields.io/badge/💻_Open_Source-Contributor-45B7D1?style=for-the-badge&labelColor=000000)]()
   
 </div>
