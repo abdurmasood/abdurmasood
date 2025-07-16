@@ -7,7 +7,7 @@ npm install -g rafey-shell && rafey-shell
 **macOS/Linux users:** Use Terminal
 
 
-### 3. Start Asking Questions!
+### Start Asking Questions!
 ```bash
 rafey-shell> What was Rafey's first ever project?
 rafey-shell> What is Rafey's favourite food?
