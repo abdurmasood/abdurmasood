@@ -1,14 +1,11 @@
-## Installation
-
-### 1. Install Rafey Shell
+## 🚀 Quick Start
 ```bash
-npm install -g rafey-shell
+npm install -g rafey-shell && rafey-shell
 ```
 
-### 2. Start Your AI Shell
-```bash
-rafey-shell
-```
+**Windows users:** Use PowerShell or WSL
+**macOS/Linux users:** Use Terminal
+
 
 ### 3. Start Asking Questions!
 ```bash
@@ -23,9 +20,4 @@ To uninstall Rafey Shell:
 
 ```bash
 npm uninstall -g rafey-shell
-```
-
-To check if it's installed globally:
-```bash
-npm list -g rafey-shell
 ```
