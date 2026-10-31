@@ -1,5 +1,9 @@
 ## 🚀 Quick Start
 ```bash
+# Run without installing
+npx -y @arafeymasood/rabot
+
+# Or install globally
 npm install -g @arafeymasood/rabot && rabot
 ```
 
@@ -16,7 +20,7 @@ rabot> What is Rafey's spice tolerance?
 
 ## 🗑️ Uninstallation
 
-To uninstall rabot:
+Only needed after a global install:
 
 ```bash
 npm uninstall -g @arafeymasood/rabot
