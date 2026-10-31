@@ -1,4 +1,4 @@
-## 🚀 Quick Start
+## Quick Start
 ```bash
 npx -y @arafeymasood/rabot
 ```
@@ -7,7 +7,7 @@ npx -y @arafeymasood/rabot
 **macOS/Linux users:** Use Terminal
 
 
-### Start Asking Questions!
+## Start Asking Questions!
 ```bash
 rabot> What was Rafey's first ever project?
 rabot> What is Rafey's favourite food?
