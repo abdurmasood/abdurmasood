@@ -1,6 +1,6 @@
 ## 🚀 Quick Start
 ```bash
-npm install -g rafey-shell && rafey-shell
+npm install -g @arafeymasood/rabot && rabot
 ```
 
 **Windows users:** Use PowerShell or WSL
@@ -9,15 +9,15 @@ npm install -g rafey-shell && rafey-shell
 
 ### Start Asking Questions!
 ```bash
-rafey-shell> What was Rafey's first ever project?
-rafey-shell> What is Rafey's favourite food?
-rafey-shell> What is Rafey's spice tolerance?
+rabot> What was Rafey's first ever project?
+rabot> What is Rafey's favourite food?
+rabot> What is Rafey's spice tolerance?
 ```
 
 ## 🗑️ Uninstallation
 
-To uninstall Rafey Shell:
+To uninstall rabot:
 
 ```bash
-npm uninstall -g rafey-shell
+npm uninstall -g @arafeymasood/rabot
 ```
