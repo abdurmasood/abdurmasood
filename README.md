@@ -9,7 +9,7 @@ npx -y @arafeymasood/rabot
 
 ## Start Asking Questions!
 ```bash
-rabot> What was Rafeys first ever project?
-rabot> What is Rafeys favourite food?
-rabot> What is Rafeys spice tolerance?
+rabot> 'What was Rafeys first ever project?'
+rabot> 'What is Rafeys favourite food?'
+rabot> 'What is Rafeys spice tolerance?'
 ```
